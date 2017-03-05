@@ -79,3 +79,15 @@ input[type='submit'].button-primary {
   background-color: #7cafc2;
   border-color: #7cafc2;
 }
+
+.slategray a,
+.slategray code {
+  color: #778899;
+}
+body.slategray {
+  border-top: 4px solid #778899;
+}
+input[type='submit'].button-primary {
+  background-color: #778899;
+  border-color: #778899;
+}
