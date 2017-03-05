@@ -91,3 +91,17 @@ input[type='submit'].button-primary {
   background-color: #778899;
   border-color: #778899;
 }
+
+.blue2 a {
+    color: #637DAC;
+}
+
+body.blue2 {
+    border-top: 4px solid #637DAC;
+}
+
+
+input[type='submit'].button-primary {
+    background-color: #637DAC;
+    border-color: #637DAC;
+}
