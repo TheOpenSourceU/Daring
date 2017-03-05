@@ -92,7 +92,8 @@ input[type='submit'].button-primary {
   border-color: #778899;
 }
 
-.blue2 a {
+.blue2 a,
+.blue2 code {
     color: #637DAC;
 }
 
